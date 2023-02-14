@@ -13,8 +13,8 @@ To use this code, follow these steps:
 + Make sure the required dependencies are installed.
 + Download the ted_main.csv file and save it in the same directory as the code.
 + Run the code.
-The code will output two plots:
 
+The code will output two plots:
 + A plot of the probability density function estimated using the Kernel Density Estimation method, with the bandwidth set to 10.
 + A plot of the probability density function estimated using the Parzen Window method, with different bandwidth values.
 

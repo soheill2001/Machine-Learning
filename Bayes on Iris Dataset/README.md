@@ -1,0 +1,4 @@
+# Gaussian Naive Bayes Classifier
+This repository contains Python script that implement a popular machine learning algorithm, Gaussian Naive Bayes Classifier.
+## Gaussian Naive Bayes Classifier
+Gaussian Naive Bayes Classifier is a popular algorithm used for classification tasks in machine learning. This algorithm is based on the Bayes theorem and assumes that all the features are independent of each other. This implementation uses the Gaussian distribution to estimate the probability of the input data belonging to each class. The script reads a CSV file, splits the data into training and testing sets, calculates the mean and covariance for each class in the training set, and uses them to predict the class of the test data. The accuracy of the algorithm is printed at the end, along with the confusion matrix.

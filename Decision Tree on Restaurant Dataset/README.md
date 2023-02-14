@@ -3,8 +3,8 @@ This code is an implementation of the decision tree algorithm in Python. It uses
 
 1. Calculate the entropy of the dataset.
 2. For each attribute/feature:
-a. Calculate the entropy of the attribute.
-b. Calculate the information gain of the attribute.
+  - a. Calculate the entropy of the attribute.
+  - b. Calculate the information gain of the attribute.
 3. Choose the attribute with the highest information gain.
 4. Add a node to the tree with the chosen attribute.
 5. Create a branch for each possible value of the attribute.

@@ -1,17 +1,18 @@
 # Voice Emotion Recognition
 This is a Python code that extracts audio features from a dataset of audio recordings, and trains machine learning models to recognize the emotion expressed in those recordings.
+In this code, we have used four different machine learning algorithms for binary classification tasks: SVM (Support Vector Machine), KNN (K-Nearest Neighbors), logistic regression, and MLP (Multi-Layer Perceptron).
 
 ## Dataset
 The dataset used in this project is in the CSV format and contains information on audio recordings including the filename, gender, text ID, and the emotion expressed in the audio.
 
 ## Requirements
-'''
+```
 Python 3.x
 librosa
 numpy
 pandas
 scikit-learn
-'''
+```
 ## Installation
 Clone this repository to your local machine.
 Install the required packages with pip install -r requirements.txt.
